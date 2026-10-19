@@ -1,0 +1,7 @@
+{
+ "author": "Mad Max",
+ "method": "C++ negotiated router + annealing; genetic search over a population of own layouts (per-net faster-parent crossover + repair + annealing); per-case direction cost and fanout weight",
+ "hardware": "13th Gen Intel(R) Core(TM) i5-13420H, 15Gi",
+ "threads": 1,
+ "date": "2026-10-19"
+}
